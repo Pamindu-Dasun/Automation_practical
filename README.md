@@ -1,4 +1,4 @@
-# Automation\_practical
+# Automation practical
 
 This is a repo for coursera git and github training session
 
